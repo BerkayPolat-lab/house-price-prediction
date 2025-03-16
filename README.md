@@ -50,7 +50,7 @@ A full description of each feature is available in the [data_description.txt](./
   - matplotlib
   - seaborn
   - scikit-learn
-  - xgboost (if used)
+  - xgboost
 
 Install dependencies using:
 
