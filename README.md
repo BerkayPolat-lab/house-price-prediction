@@ -39,6 +39,9 @@ A full description of each feature is available in the [data_description.txt](./
 
 6. **Submission:**
    - Generating a submission file (`submission.csv`) with predicted house prices for the test set.
+  
+7. **Kaggle.com Competition**
+   - The model placed in the top 25% of all the participants in the the **House Prices - Advanced Regression Technique** competition with a score of 0.13017.
 
 ## 🛠️ Requirements
 
